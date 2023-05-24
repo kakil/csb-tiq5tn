@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://kakil.github.io/csb-tiq5tn/static/css/main.85a8d10d.css",
+    "main.js": "https://kakil.github.io/csb-tiq5tn/static/js/main.e85558ed.js",
+    "static/media/card-background.jpg": "https://kakil.github.io/csb-tiq5tn/static/media/card-background.460ce0d5435b5650a5d2.jpg",
+    "static/media/card-image.png": "https://kakil.github.io/csb-tiq5tn/static/media/card-image.fe656993e26a0620644f.png",
+    "static/media/kit-avatar.png": "https://kakil.github.io/csb-tiq5tn/static/media/kit-avatar.9649f709d8b22d98ef2c.png",
+    "index.html": "https://kakil.github.io/csb-tiq5tn/index.html",
+    "main.85a8d10d.css.map": "https://kakil.github.io/csb-tiq5tn/static/css/main.85a8d10d.css.map",
+    "main.e85558ed.js.map": "https://kakil.github.io/csb-tiq5tn/static/js/main.e85558ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a8d10d.css",
+    "static/js/main.e85558ed.js"
+  ]
+}
